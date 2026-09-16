@@ -1,0 +1,8 @@
+"Contact us for a quote" is a conversion killer. Visitors want a number, even a rough one, before they'll pick up the phone.
+
+I built a self-contained instant quote calculator for residential cleaning businesses: price by bedrooms/bathrooms or floor area, your own rates per service type, frequency discounts, optional extras like ovens or windows — and it always adds up exactly to the total, because the six-step pricing logic is checked against 7 independently hand-calculated test cases, not just eyeballed. Drop the source folder onto your own site or embed it in an existing page.
+
+See it running on real (fictional) data: https://iederees-create.github.io/cleaning-business-instant-quote-calculator/
+Get it on Etsy: https://www.etsy.com/listing/4575649514/cleaning-business-quote-calculator-kit
+
+#CleaningBusiness #SmallBusinessTool #QuoteCalculator #WebDevelopment

@@ -1,0 +1,9 @@
+If you use Calendly, Square Appointments, Acuity or similar, you probably still don't have anywhere professional to send someone before they click "book."
+
+This started as a request in a freelance job post, so I built it properly: a landing page kit with three starting points (barber/salon, consultant/coach, local appointment service), all sharing one render engine, plus an in-browser customiser — fill in your business name, colours, services, hours and FAQs, watch it update live, and download one finished index.html. Nothing uploaded anywhere; it runs entirely in your own browser.
+
+Case study (how it works, why I built it this way): https://iederees-create.github.io/3D-Portfolio/blog/booking-link-to-landing-page/
+Live demo: https://iederees-create.github.io/booking-landing-page-kit/
+Get it on Etsy: https://www.etsy.com/listing/4575621298/booking-landing-page-website-template
+
+#BookingPage #SmallBusinessWebsite #NoCode #ServiceBusiness

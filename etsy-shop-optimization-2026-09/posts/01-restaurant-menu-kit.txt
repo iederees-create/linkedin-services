@@ -1,0 +1,9 @@
+Most "digital menu" listings I looked at are Canva flyers you print or email — not something you can actually put on a TV in your shop.
+
+I built a real editor instead: enter your menu once, and it generates a TV-display view (16:9, promo slides, pagination for long menus), a mobile-friendly page for customers scanning a QR code, and a printable A4/US-Letter layout — from the same data, in one browser tab. No install, no monthly subscription, no hosting service required (a free-hosting guide is included for anyone who wants the TV view live on a screen).
+
+Built for independent cafes, takeaways and food trucks who want one afternoon's setup, not a recurring SaaS bill.
+
+Get it here: https://www.etsy.com/listing/4576445855/restaurant-digital-menu-promotion-kit-tv
+
+#SmallBusinessTools #RestaurantTech #DigitalMenu #EtsySeller

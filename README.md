@@ -7,3 +7,7 @@ Approved marketing assets for Iederees Francis / NextGenWebs LinkedIn Services. 
 - [Repair Business Job & Parts Tracker](repair-business-job-parts-tracker/)
 
 The public portfolio demonstration is separate from the DIY Etsy spreadsheet/template download. Final LinkedIn categories and publication status must be verified in the browser editor.
+
+## Campaigns
+
+- [Etsy shop optimisation — 2026-09](etsy-shop-optimization-2026-09/) — 5 per-listing promotional posts for the NextGenWebs Etsy shop, unpublished pending cloud-browser handover.

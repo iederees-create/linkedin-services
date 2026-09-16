@@ -1,0 +1,9 @@
+Retyping the same quote from scratch every time a job comes in is a tax on every trade business.
+
+I built a working Excel/Google Sheets workbook with one pre-built tab per trade — pest control, tiling & flooring, laser cutting & engraving, exterior cleaning, construction & renovation — plus a blank Custom Trade tab using the same formulas. Type in quantities and rates; Line Total, Subtotal, Discount, Tax and TOTAL DUE calculate automatically, including a 30% deposit line. Export any tab straight to a client-ready PDF.
+
+Case study: https://iederees-create.github.io/3D-Portfolio/blog/trade-business-quote-calculator/
+Live demo: https://iederees-create.github.io/trade-quote-estimate-calculator/
+Get it on Etsy: https://www.etsy.com/listing/4565932701/trade-business-quote-estimate-calculator
+
+#TradeBusiness #Contractor #ExcelTemplate #SmallBusinessTool
