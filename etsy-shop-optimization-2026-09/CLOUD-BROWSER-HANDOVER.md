@@ -7,8 +7,7 @@ Use the verified NextGenWebs/developer profile, not the separate trading profile
 ## Sequence
 
 1. Open LinkedIn and visibly confirm the profile identity. Inspect existing posts and Featured items; do not duplicate an existing post for the same product.
-2. These five posts each promote one NextGenWebs Etsy listing with a genuine working demo, not the shop homepage. Publish them as five separate posts, spaced out (not all on the same day) - use your own judgement or ask the owner for a schedule:
-   - `posts/01-restaurant-menu-kit.txt` + `assets/restaurant-menu-kit-cover.jpg`
+2. These four posts each promote one NextGenWebs Etsy listing with a genuine working demo, not the shop homepage. The fifth selected listing (Restaurant Digital Menu & Promotion Kit) has its own separate, more complete package at `../restaurant-digital-menu-kit/` - use that one instead, do not also publish a post from this folder for it. Publish these four as separate posts, spaced out (not all on the same day) - use your own judgement or ask the owner for a schedule:
    - `posts/02-homeowner-organiser-kit.txt` + `assets/homeowner-organiser-cover.jpg`
    - `posts/03-cleaning-quote-calculator.txt` + `assets/cleaning-quote-calculator-cover.jpg`
    - `posts/04-booking-landing-page-kit.txt` + `assets/booking-landing-page-cover.png`
