@@ -1,0 +1,17 @@
+{
+  "service": "restaurant-digital-menu-kit",
+  "assets": {
+    "screenshot-tv.png": { "purpose": "primary launch post image / TV display proof", "status": "ready", "source": "real product screenshot, file:// verified" },
+    "screenshot-mobile.png": { "purpose": "mobile menu proof", "status": "ready", "source": "real product screenshot, file:// verified" },
+    "screenshot-editor.png": { "purpose": "editor walkthrough proof", "status": "ready", "source": "real product screenshot, file:// verified" },
+    "screenshot-print.png": { "purpose": "print layout proof", "status": "ready", "source": "real product screenshot, file:// verified" },
+    "linkedin-cover-image": { "purpose": "profile Services cover image", "status": "NOT PRODUCED — time-constrained; use screenshot-tv.png as a substitute or produce separately before upload" },
+    "linkedin-pdf-carousel": { "purpose": "carousel post asset", "status": "NOT PRODUCED — time-constrained" },
+    "demo-video": { "purpose": "captioned 30-60s demo video", "status": "NOT PRODUCED — unfinished, no storyboard drafted yet; do not represent as complete" }
+  },
+  "posts": {
+    "01-launch.md": { "status": "ready to publish", "image": "screenshot-tv.png" },
+    "02-practical-example.md": { "status": "draft, needs a before/after asset not yet produced — leave unpublished" },
+    "03-evergreen-overview.md": { "status": "draft, ready text, no dedicated graphic yet — leave unpublished" }
+  }
+}

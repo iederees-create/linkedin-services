@@ -1,5 +1,8 @@
 {
   "owner": "Iederees Francis / NextGenWebs",
-  "services": [{"slug":"repair-business-job-parts-tracker","status":"READY_FOR_CLOUD_BROWSER","portfolio_url":"https://iederees-create.github.io/3D-Portfolio/projects/repair-business-job-parts-tracker/","article_url":"https://iederees-create.github.io/3D-Portfolio/blog/how-to-organise-repair-jobs-spare-parts-and-invoices/"}],
+  "services": [
+    {"slug":"repair-business-job-parts-tracker","status":"READY_FOR_CLOUD_BROWSER","portfolio_url":"https://iederees-create.github.io/3D-Portfolio/projects/repair-business-job-parts-tracker/","article_url":"https://iederees-create.github.io/3D-Portfolio/blog/how-to-organise-repair-jobs-spare-parts-and-invoices/"},
+    {"slug":"restaurant-digital-menu-kit","status":"BLOCKED_MISSING_PROJECT_URL","portfolio_url":null,"article_url":null,"etsy_draft_listing_id":4576445855,"notes":"Working product and Etsy draft exist and are verified. Portfolio project page and blog post not yet built — do not publish the LinkedIn launch post until a real project URL exists (see CLOUD-BROWSER-HANDOVER.md)."}
+  ],
   "policy": "No customer data, credentials, paid download packages, claims of results or fabricated testimonials are included."
 }

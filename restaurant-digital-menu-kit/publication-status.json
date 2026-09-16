@@ -1,0 +1,9 @@
+{
+  "service_added_to_linkedin": false,
+  "featured_added": false,
+  "posts_published": [],
+  "posts_pending_cloud_browser": ["01-launch.md"],
+  "posts_intentionally_unpublished": ["02-practical-example.md", "03-evergreen-overview.md"],
+  "last_updated_by": "claude-code",
+  "notes": "Nothing has been published to LinkedIn from Claude Code. This file should be updated by the cloud-browser session after it completes its actions, with real URLs/status."
+}
