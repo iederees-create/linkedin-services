@@ -1,0 +1,11 @@
+A fictional example makes a stock rule easier to explain.
+
+JOB-1001 is a washing-machine repair. The technician diagnoses a failed pump and adds the pump plus labour to the estimate. Stock does not change when the job is saved. It changes when an explicit ISSUE movement records that the pump was used.
+
+If the job is cancelled, nothing silently returns to stock. If the part physically comes back usable, record a RETURN. If the catalogue price changes next month, the issued invoice keeps its original price snapshot.
+
+That separation is the difference between a tidy-looking number and an explainable record.
+
+Demo: https://iederees-create.github.io/3D-Portfolio/projects/repair-business-job-parts-tracker/
+
+#ApplianceRepair #InventoryControl #Operations

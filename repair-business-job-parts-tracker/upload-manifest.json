@@ -1,0 +1,14 @@
+{
+  "service_slug": "repair-business-job-parts-tracker",
+  "portfolio_demo": "https://iederees-create.github.io/3D-Portfolio/projects/repair-business-job-parts-tracker/",
+  "article": "https://iederees-create.github.io/3D-Portfolio/blog/how-to-organise-repair-jobs-spare-parts-and-invoices/",
+  "assets": [
+    {"path":"assets/images/project-card.png","purpose":"service showcase cover","format":"PNG","dimensions":"1600x900"},
+    {"path":"assets/images/dashboard-desktop.png","purpose":"launch post and service evidence","format":"PNG","dimensions":"1600x900"},
+    {"path":"assets/images/dashboard-mobile.png","purpose":"mobile workflow evidence","format":"PNG","dimensions":"900x1200"},
+    {"path":"assets/images/invoice-sample.png","purpose":"invoice snapshot evidence","format":"PNG","dimensions":"1600x900"},
+    {"path":"assets/carousel/repair-tracker-linkedin-carousel.pdf","purpose":"optional launch carousel","format":"PDF","pages":5},
+    {"path":"assets/video/VIDEO-STATUS.md","purpose":"recording status and instructions","format":"Markdown","status":"unfinished"}
+  ],
+  "publication": {"service":"READY_FOR_BROWSER","launch_post":"READY_NOT_PUBLISHED","remaining_posts":"READY_NOT_PUBLISHED","featured":"READY_NOT_PUBLISHED"}
+}

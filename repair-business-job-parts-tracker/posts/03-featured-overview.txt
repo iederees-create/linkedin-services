@@ -1,0 +1,15 @@
+What I build for repair businesses:
+
+• Job intake and diagnosis records
+• Status views for new, diagnosing, awaiting parts and completion
+• Parts catalogue with supplier and reorder context
+• Explicit receipt, issue, return and adjustment ledger
+• Labour and parts pricing with reconciled documents
+• Estimate and invoice templates with price snapshots
+• Backups, import/export and a practical handover
+
+The first version should fit the real workflow, not a generic feature list. Tell me what you currently repeat by hand, which fields matter, and what a good completed job looks like. I can help define a focused first release.
+
+Portfolio: https://iederees-create.github.io/3D-Portfolio/projects/repair-business-job-parts-tracker/
+
+#RepairTechnician #CustomSoftware #BusinessSystems

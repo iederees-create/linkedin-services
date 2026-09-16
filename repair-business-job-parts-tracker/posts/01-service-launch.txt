@@ -1,0 +1,11 @@
+I build custom job and inventory systems for repair businesses.
+
+The useful version is usually smaller than people expect: one job reference, a clear status, diagnosis notes, parts and labour lines, an explicit stock movement and a document you can actually print.
+
+I built a fictional-data demo to show that workflow from job intake to invoice. It is deliberately separate from the DIY spreadsheet kit and it does not ask visitors to upload real customer information.
+
+See the demo: https://iederees-create.github.io/3D-Portfolio/projects/repair-business-job-parts-tracker/
+
+If your current process lives across messages, notebooks and supplier tabs, send me a message with the smallest part you want organised first.
+
+#RepairBusiness #WorkflowDesign #SmallBusinessSoftware

@@ -1,0 +1,7 @@
+I build custom job and inventory systems for independent appliance repair technicians and small repair businesses.
+
+We can map your workflow from job intake to diagnosis, parts and labour, status updates, estimates, invoices and stock movements. The demonstration keeps stock changes explicit: parts are issued when used, returns are recorded deliberately, and issued invoice prices remain snapshots when catalogue prices change.
+
+Typical scope includes an agreed Excel or web-based workflow, search and filters, validation, printable documents, import/export and a handover guide. Complex integrations, payments, SMS, route planning, accounting connections and multi-user permissions require separately agreed scope.
+
+Send a LinkedIn message with your current process, the fields you need, your preferred platform and one anonymised example job. I will confirm the smallest useful first version before proposing an implementation.

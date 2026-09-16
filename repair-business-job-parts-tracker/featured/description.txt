@@ -1,0 +1,1 @@
+An independently developed fictional-data demonstration of a repair workflow: job intake, diagnosis, explicit parts movements, status updates and estimate/invoice snapshots. The public demo is separate from the DIY spreadsheet kit and contains no real customer data.
